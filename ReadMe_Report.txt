@@ -33,5 +33,5 @@ has (disability, elders, kids…) Intuitive interface for employees and users.
 ● Availability: users could reach as much as possible(%99).
 
 
-Diagrams can be foun in repository
+Diagrams can be found in repository
 
