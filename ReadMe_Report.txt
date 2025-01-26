@@ -1,7 +1,7 @@
-Oytun Ertas
-Mustafa Sekizkardes
-Berkay Celik 
-Aysegul Akyuz
+Oytun Ertas 42208
+Mustafa Sekizkardes 41500
+Berkay Celik 40467
+Aysegul Akyuz 42240
 
 
 LIBRARY SERVICE SYSTEM
@@ -33,5 +33,5 @@ has (disability, elders, kids…) Intuitive interface for employees and users.
 ● Availability: users could reach as much as possible(%99).
 
 
-
+Diagrams can be foun in repository
 
